@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-sky-500 {
+    background-color: #0ea5e9;
+  }
+  .hover\:bg-sky-700:hover {
+    background-color: #0369a1;
+  }
+
