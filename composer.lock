@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "00c99c13c4312754fa9d81f366c9925d",
+    "content-hash": "6fc64f127301e15c48e053003e2892da",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -5865,16 +5865,16 @@
         },
         {
             "name": "tinymce/tinymce",
-            "version": "6.2.0",
+            "version": "7.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tinymce/tinymce-dist.git",
-                "reference": "396dc0d4c4a970918e5a4322c7957c90c85c4c4f"
+                "reference": "c011b5164178ac5224e658bf2aed713479fc78ae"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tinymce/tinymce-dist/zipball/396dc0d4c4a970918e5a4322c7957c90c85c4c4f",
-                "reference": "396dc0d4c4a970918e5a4322c7957c90c85c4c4f",
+                "url": "https://api.github.com/repos/tinymce/tinymce-dist/zipball/c011b5164178ac5224e658bf2aed713479fc78ae",
+                "reference": "c011b5164178ac5224e658bf2aed713479fc78ae",
                 "shasum": ""
             },
             "type": "component",
@@ -5899,7 +5899,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "MIT-only"
+                "GPL-2.0-or-later"
             ],
             "description": "Web based JavaScript HTML WYSIWYG editor control.",
             "homepage": "https://www.tiny.cloud/",
@@ -5918,9 +5918,9 @@
                 "wysiwyg"
             ],
             "support": {
-                "source": "https://github.com/tinymce/tinymce-dist/tree/6.2.0"
+                "source": "https://github.com/tinymce/tinymce-dist/tree/7.0.0"
             },
-            "time": "2022-09-08T04:15:30+00:00"
+            "time": "2024-03-20T05:46:56+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
@@ -8578,5 +8578,5 @@
         "php": "^7.3|^8.0"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "2.6.0"
 }
